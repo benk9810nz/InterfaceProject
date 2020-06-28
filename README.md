@@ -5,7 +5,7 @@ During my last year of study at the Southern Institute of Technology I was taske
 
 This Repository contains 2 Files. The PDF Contains the Documentation (worth 40% of the mark), while the XD File contains the fully functional prototype of the application, created in Adobe XD (worth the remaning 60% of the mark). 
 
-## For this assignment I got a mark of 99/100, with the below comments from the tutor regarding it:
+### For this assignment I got a mark of 99/100, with the below comments from the tutor regarding it:
 
 > A very comprehensive and polished project and documentation. Aligns closely with the material presented in class, by using HCI specific terminology, and overt references to the tools and techniques used that were learned in class.
 > Sneaky but very amusing use of comic sans on the I icon, and I believe also on the checkout reminder!
